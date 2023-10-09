@@ -156,7 +156,7 @@ while True:
 
 ```
 
-![tokotas](https://github.com/hiskyaharsyalkila/POS-TES-2-TOKO-TAS/assets/144862428/05f6842c-2c91-4f6f-93f3-661459ae1c4b)
+
 
 
 
